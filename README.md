@@ -31,6 +31,7 @@ Y sigo aprendiendo más cada día.
 ---
 
 Sientanse libres de contactarme a través de mi perfil de LinkedIn haciendo click [aquí](https://www.linkedin.com/in/vanesa-gabioud/).
+O a través de mi correo electrónico: vanesagabioud@yahoo.com.ar
 
 <!--
 **vanegabioud/vanegabioud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
